@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Jean MESSCO/fraud-detection-banking/mlruns/798040488332621459/2435357ded3a4a528617d48ec24406e0/artifacts
+end_time: 1774046165516
+entry_point_name: ''
+experiment_id: '798040488332621459'
+lifecycle_stage: active
+run_id: 2435357ded3a4a528617d48ec24406e0
+run_name: xgboost-fraud-detector
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774046154934
+status: 3
+tags: []
+user_id: Jean MESSCO
